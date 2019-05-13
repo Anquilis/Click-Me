@@ -1,0 +1,11 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+html { overflow-y: hidden; }
